@@ -1,3 +1,3 @@
 # my-python-project
-this project is for my python learning
-Author - Noordeep Singh
+This project is for my python learning.
+ Author - Noordeep Singh
