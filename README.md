@@ -1,8 +1,8 @@
 # PYTHON PRACTICE
-This project is for my python learning.
+This repository contains my Python practice programs and mini projects.
 <br>
  Author - Noordeep Singh
  <br>
- AI & ROBOTICS
+ Ai & Robotics
  <br>
- GURU NANAK DEV UNIVERSITY
+ Guru Nanak Dev University
